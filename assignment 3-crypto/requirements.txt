@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+xgboost
+requests
+python-dotenv
+streamlit>=1.36
